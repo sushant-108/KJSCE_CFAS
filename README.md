@@ -16,3 +16,8 @@ If you face any problems regarding the code, mail me at sushant.nair@somaiya.edu
 NOTE:
 1. Don't try to create a faculty account. If you still want to create one, create account such that only 'DSM' and/or 'RDBMS' and/or 'TAC'. 
 2. Also, if you want to create multiple accounts of multiple Faculty Members, make sure that the same subject out of the above three is not selected again.
+
+Steps for a successful demonstration:
+1. Create ONE faculty account who teaches DSM, RDBMS and TAC. Alternatively, two accounts teaching (DSM, RDBMS)(TAC), (DSM, TAC)(RDBMS), (RDBMS, TAC)(DSM) can also be created. Alternatively, three accounts teaching (DSM)(RDBMS)(TAC) can also be created. It is preferable to create one account for quick demonstration.
+2. Create a student account studying in SEM-III (for DSM) and another student account studying in SEM-IV (for RDBMS and TAC).
+3. Fill the forms in student login and observe result in student as well as faculty login.
