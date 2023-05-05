@@ -14,8 +14,8 @@ Step 10: download remaining php files into the KJSCE_CFAS folder.
 If you face any problems regarding the code, mail me at sushant.nair@somaiya.edu
 
 NOTE:
-1. Don't try to create a faculty account. If you still want to create one, create account such that only 'DSM' and/or 'RDBMS' and/or 'TAC'. 
-2. Also, if you want to create multiple accounts of multiple Faculty Members, make sure that the same subject out of the above three is not selected again.
+1. Don't try to create a faculty account. If you still want to create one, create account such that only 'RDBMS' and/or 'TAC' is taught by the faculty member. 
+2. Also, if you want to create multiple accounts of multiple Faculty Members, make sure that the same subject out of the above two is not selected again.
 
 Steps for a successful demonstration:
 1. Create ONE faculty account who teaches RDBMS and TAC. Alternatively, two accounts teaching (RDBMS)(TAC) can also be created. It is preferable to create one account for quick demonstration.
